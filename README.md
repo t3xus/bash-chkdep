@@ -1,7 +1,9 @@
 # bash-chkdep
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-464646?style=for-the-badge&logo=debian&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Author-Jgooch-1F4D37)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Static Badge](https://img.shields.io/badge/Distribution-npm-orange)
+![Target](https://img.shields.io/badge/Target-macOS-cccccc)
+![Target](https://img.shields.io/badge/Target-Debian-red)
 
 
 Bash Dependency Checker &amp; Installer Script
